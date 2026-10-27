@@ -41,3 +41,7 @@ PR 合并到 `main` 后 Actions 自动构建并部署，无需手动操作。也
 ```bash
 git clone --recurse-submodules https://github.com/CrzKn/AI_Post_Daily.git
 ```
+
+## 手动触发部署
+
+Actions 页面选 `Deploy Hugo site to GitHub Pages` → Run workflow（`workflow_dispatch`），可不动代码重新部署。

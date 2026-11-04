@@ -1,6 +1,6 @@
 ---
 title: "半小时卖掉 2 万亿 Token：AI 的「电」开始论斤卖了"
-date: 2026-11-04T19:20:00+08:00
+date: 2026-11-04T19:15:00+08:00
 tags: ["ai", "token", "commodity", "pricing"]
 author: "CrzKn"
 ---

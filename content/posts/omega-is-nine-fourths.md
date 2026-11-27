@@ -1,7 +1,7 @@
 ---
 title: "ω 恰为 9/4：OpenAI 第一次证出「不可能更快」，为什么这比「更快」重要得多"
-date: 2026-11-27T11:02:37+08:00
-tags: ["AI", "complexity", "math", "OpenAI"]
+date: 2026-11-27T11:26:45+08:00
+tags: ["AI", "complexity", "OpenAI"]
 author: "CrzKn"
 ---
 
